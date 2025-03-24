@@ -24,8 +24,8 @@ Universal Hospital is a **console-based Hospital Management System** that helps 
 ## 📸 Screenshots
 | Main Menu | Add Patient | View Appointments |
 |-----------|------------|------------------|
-
 | ![Main Menu](MainMenu.png) | ![Add Patient](Patients.png) | ![View Appointments](Screenshot 2025-03-24 174620.png) |
+
 
 
 
