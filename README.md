@@ -1,7 +1,9 @@
-# Universal-Hospital
+
+# Universal-Hospital 
 # Universal Hospital - Hospital Management System 🏥
 
-![Project Banner](your-image-url-here)
+![Project Banner](3Iwl3pAZosPGrALb-generated_image.jpg)
+
 
 ## 📌 Project Overview
 Universal Hospital is a **console-based Hospital Management System** that helps manage patients, doctors, and appointments efficiently. Built using **Java, JDBC, and MySQL**, it provides a seamless experience for handling hospital-related tasks.
@@ -22,12 +24,20 @@ Universal Hospital is a **console-based Hospital Management System** that helps 
 ## 📸 Screenshots
 | Main Menu | Add Patient | View Appointments |
 |-----------|------------|------------------|
-| ![Main Menu](your-screenshot-url-here) | ![Add Patient](your-screenshot-url-here) | ![View Appointments](your-screenshot-url-here) |
+
+| ![Main Menu](MainMenu.png) | ![Add Patient](Patients.png) | ![View Appointments](Screenshot 2025-03-24 174620.png) |
+
+
+
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Shubham17121999/Universal-Hospital
+
+cd universal-hospital
+
+
 ```
 
 ### 2️⃣ Set Up the Database
@@ -35,9 +45,17 @@ git clone https://github.com/Shubham17121999/Universal-Hospital
 - Run the provided SQL script to set up the necessary tables.
 
 
+### 3️⃣ Run the Project
+```sh
+javac management.java
+java management
+```
 
-## 🎥 Demo Animation
-![Demo GIF](your-animation-url-here)
+
+
+
+
+
 
 ## 🤝 Contributing
 Feel free to fork this repo and contribute by adding new features or improving existing functionality!
