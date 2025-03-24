@@ -27,8 +27,7 @@ Universal Hospital is a **console-based Hospital Management System** that helps 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/universal-hospital.git
-cd universal-hospital
+git clone https://github.com/Shubham17121999/Universal-Hospital
 ```
 
 ### 2️⃣ Set Up the Database
