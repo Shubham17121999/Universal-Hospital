@@ -22,9 +22,9 @@ Universal Hospital is a **console-based Hospital Management System** that helps 
 - **Git & GitHub** - Version control and collaboration.
 
 ## 📸 Screenshots
-| Main Menu | Add Patient | View Appointments |
-|-----------|------------|------------------|
-| ![Main Menu](MainMenu.png) | ![Add Patient](Patients.png) | ![View Appointments](Screenshot 2025-03-24 174620.png) |
+| Main Menu | Add Patient |
+|-----------|------------|
+| ![Main Menu](MainMenu.png) | ![Add Patient](Patients.png) |
 
 
 
