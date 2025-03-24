@@ -34,11 +34,7 @@ git clone https://github.com/Shubham17121999/Universal-Hospital
 - Create a MySQL database named `hospital`.
 - Run the provided SQL script to set up the necessary tables.
 
-### 3️⃣ Run the Project
-```sh
-javac UniversalHospital.java
-java UniversalHospital
-```
+
 
 ## 🎥 Demo Animation
 ![Demo GIF](your-animation-url-here)
